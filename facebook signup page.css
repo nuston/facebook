@@ -1,0 +1,39 @@
+form{ 
+    border: 1px solid rgb(196, 192, 192); padding: 20px; margin: 2px; width: 45%;
+}
+input{
+    padding: 5px; margin: 3.5px;
+}
+[type1] {
+    margin-top: 5px; width: 95%;
+}
+[type2]{
+    width: 95%; margin-top: 5px;
+}
+[type="date"] {
+    width: 27%; margin-bottom: 15px;
+} 
+[type="radio"] {
+margin-top: 5px; margin-bottom: 40px; border: 55px solid red;
+} 
+#signup{
+    font-size: x-large; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+[type="submit"] { color: white; 
+    margin-top: 2px; background-color: green; border: 1px solid green; width: 40%;
+    } 
+    .fa-facebook, h1{
+        color: blue;
+    }
+    [type="submit"]:hover{
+background-color: red; 
+    }
+    .class
+    #id
+    [attribute]
+    :pseudo
+
+p.child {
+    background-color: black;
+    color: yellow;
+      }
