@@ -1,11 +1,19 @@
 form{ 
-    border: 1px solid rgb(196, 192, 192); padding: 20px; margin: 2px; width: 45%;
+     justify-self: center;  border: 0.5px solid rgb(196, 192, 192); padding: 20px;
+      margin: 2px; width: 33%; margin-left: 33%;
+
+}
+.easy {
+    color: grey;
 }
 input{
     padding: 5px; margin: 3.5px;
 }
+.form_main {
+padding-bottom: -10px;
+}
 [type1] {
-    margin-top: 5px; width: 95%;
+    margin-top: 5px; width: 95%; 
 }
 [type2]{
     width: 95%; margin-top: 5px;
@@ -14,26 +22,28 @@ input{
     width: 27%; margin-bottom: 15px;
 } 
 [type="radio"] {
-margin-top: 5px; margin-bottom: 40px; border: 55px solid red;
+margin-top: 5px; margin-bottom: 4px; 
 } 
-#signup{
+#radio1 {
+    background-color: red;
+}
+
+
+#signup{ 
     font-size: x-large; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-[type="submit"] { color: white; 
+[type="submit"] { color: white; font-weight: bolder;  margin-left: 30%;
     margin-top: 2px; background-color: green; border: 1px solid green; width: 40%;
     } 
     .fa-facebook, h1{
         color: blue;
     }
     [type="submit"]:hover{
-background-color: red; 
+background-color: rgb(65, 100, 65); 
     }
-    .class
-    #id
-    [attribute]
-    :pseudo
-
-p.child {
-    background-color: black;
-    color: yellow;
-      }
+    .para{
+        margin: 5px; padding-top: -50px; font-size: small; color: grey;
+    }
+    .p1{
+        padding-bottom: 2px;
+    }
